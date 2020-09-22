@@ -1,0 +1,29 @@
+{
+  "name": "calculate-mate",
+  "version": "1.0.0",
+  "homepage": "https://calculate-mate.herokuapp.com/",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev:client": "cd client && yarn start",
+    "dev:server": "cd server && yarn start:dev",
+    "start": "cd server && yarn start",
+    "install": "cd server && yarn",
+    "deploy": "git push heroku master",
+    "heroku-postbuild": "cd client && yarn && yarn build",
+    "dev": "concurrently \"yarn dev:client\" \"yarn dev:server\"",
+    "documentation": "cd docs && yarn docz:dev"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "prettier": "^2.0.5"
+  },
+  "engines": {
+    "node": "10.x",
+    "yarn": "1.x"
+  },
+  "dependencies": {
+    "@types/query-string": "^6.3.0",
+    "query-string": "^6.13.1"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "calculate-mate-server",
+  "version": "0.0.1",
+  "private": true,
+  "license": "MIT",
+  "description": "Server for calculate mate",
+  "devDependencies": {
+    "@types/node": "^8.0.29",
+    "typescript": "^4.0.2",
+    "ts-node-dev": "^1.0.0-pre.60",
+    "@types/nodemailer": "^6.4.0"
+  },
+  "dependencies": {
+    "@types/bcryptjs": "^2.4.2",
+    "@types/body-parser": "^1.17.0",
+    "@types/cors": "^2.8.4",
+    "@types/helmet": "0.0.42",
+    "@types/jsonwebtoken": "^8.3.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.1",
+    "class-validator": "^0.9.1",
+    "cors": "^2.8.5",
+    "express": "^4.15.4",
+    "helmet": "^3.15.0",
+    "jsonwebtoken": "^8.4.0",
+    "lodash": "^4.17.20",
+    "mongodb": "^3.6.0",
+    "reflect-metadata": "^0.1.10",
+    "sqlite3": "^4.0.3",
+    "ts-node": "^9.0.0",
+    "ts-node-dev": "^1.0.0-pre.32",
+    "typeorm": "0.2.12",
+    "winston": "^3.3.3",
+    "nodemailer": "^6.4.11",
+    "dotenv": "5.0.1"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "start:dev": "ts-node-dev ./src/index.ts",
+    "start": "ts-node ./src/index.ts",
+    "migration:run": "ts-node ./node_modules/typeorm/cli.js migration:run"
+  }
+}

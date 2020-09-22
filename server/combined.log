@@ -1,0 +1,524 @@
+{"message":"Server started on port 3000!","level":"info","service":"user-service"}
+{"message":"Server started on port 3000!","level":"info","service":"user-service"}
+{"message":"Server started on port 3000!","level":"info","service":"user-service"}
+{"message":"Server started on port 3000!","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 3000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[{\"target\":{\"name\":\"teste\",\"value\":0},\"property\":\"percent\",\"children\":[],\"constraints\":{\"max\":\"percent must not be greater than 100\",\"min\":\"percent must not be less than 0\"}}]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[{\"target\":{\"name\":\"teste\",\"value\":0},\"property\":\"percent\",\"children\":[],\"constraints\":{\"max\":\"percent must not be greater than 100\",\"min\":\"percent must not be less than 0\"}}]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[{\"target\":{\"name\":\"teste\",\"value\":0},\"property\":\"percent\",\"children\":[],\"constraints\":{\"max\":\"percent must not be greater than 100\",\"min\":\"percent must not be less than 0\"}}]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[{\"target\":{\"name\":\"teste\",\"percent\":0,\"value\":0},\"property\":\"userId\",\"children\":[],\"constraints\":{\"length\":\"userId must be longer than or equal to 24 characters\"}}],[{\"target\":{\"name\":\"teste2\",\"percent\":10,\"value\":45},\"property\":\"userId\",\"children\":[],\"constraints\":{\"length\":\"userId must be longer than or equal to 24 characters\"}}]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[{\"target\":{\"name\":\"teste\",\"percent\":0,\"value\":0,\"marksheetId\":\"5f4447781c17663777efddd6\"},\"value\":\"5f4447781c17663777efddd6\",\"property\":\"marksheetId\",\"children\":[],\"constraints\":{\"length\":\"marksheetId must be longer than or equal to 24 and shorter than or equal to undefined characters\"}}],[{\"target\":{\"name\":\"teste2\",\"percent\":10,\"value\":45,\"marksheetId\":\"5f4447781c17663777efddd6\"},\"value\":\"5f4447781c17663777efddd6\",\"property\":\"marksheetId\",\"children\":[],\"constraints\":{\"length\":\"marksheetId must be longer than or equal to 24 and shorter than or equal to undefined characters\"}}]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[{\"target\":{\"name\":\"teste\",\"percent\":0,\"value\":0,\"marksheetId\":\"5f444bf1143f9a382bc37398\"},\"value\":\"5f444bf1143f9a382bc37398\",\"property\":\"marksheetId\",\"children\":[],\"constraints\":{\"length\":\"marksheetId must be longer than or equal to 20 and shorter than or equal to undefined characters\"}}],[{\"target\":{\"name\":\"teste2\",\"percent\":10,\"value\":45,\"marksheetId\":\"5f444bf1143f9a382bc37398\"},\"value\":\"5f444bf1143f9a382bc37398\",\"property\":\"marksheetId\",\"children\":[],\"constraints\":{\"length\":\"marksheetId must be longer than or equal to 20 and shorter than or equal to undefined characters\"}}]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[{\"target\":{\"name\":\"teste\",\"percent\":0,\"value\":0,\"marksheetId\":\"5f444c15e12cb9383c188b2e\"},\"value\":\"5f444c15e12cb9383c188b2e\",\"property\":\"marksheetId\",\"children\":[],\"constraints\":{\"length\":\"marksheetId must be longer than or equal to 23 and shorter than or equal to undefined characters\"}}],[{\"target\":{\"name\":\"teste2\",\"percent\":10,\"value\":45,\"marksheetId\":\"5f444c15e12cb9383c188b2e\"},\"value\":\"5f444c15e12cb9383c188b2e\",\"property\":\"marksheetId\",\"children\":[],\"constraints\":{\"length\":\"marksheetId must be longer than or equal to 23 and shorter than or equal to undefined characters\"}}]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"5f444c3822e2b138420e43885f444c3822e2b138420e4388<--","level":"warn","service":"user-service"}
+{"message":"5f444c3822e2b138420e43885f444c3822e2b138420e4388<--","level":"warn","service":"user-service"}
+{"message":"5f444c3822e2b138420e43885f444c15e12cb9383c188b2e<--","level":"warn","service":"user-service"}
+{"message":"5f444c3822e2b138420e43885f444c15e12cb9383c188b2e<--","level":"warn","service":"user-service"}
+{"message":"5f444c3822e2b138420e43885f444bf1143f9a382bc37398<--","level":"warn","service":"user-service"}
+{"message":"5f444c3822e2b138420e43885f444bf1143f9a382bc37398<--","level":"warn","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[{\"target\":{\"name\":\"Teste\",\"percent\":\"67\",\"value\":\"45\",\"marksheetId\":\"5f459b201805d046588fc2b4\"},\"value\":\"45\",\"property\":\"value\",\"children\":[],\"constraints\":{\"max\":\"value must not be greater than 100\",\"min\":\"value must not be less than 0\"}},{\"target\":{\"name\":\"Teste\",\"percent\":\"67\",\"value\":\"45\",\"marksheetId\":\"5f459b201805d046588fc2b4\"},\"value\":\"67\",\"property\":\"percent\",\"children\":[],\"constraints\":{\"max\":\"percent must not be greater than 100\",\"min\":\"percent must not be less than 0\"}}]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"[{},{}]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"[{},{}]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"[{},{}]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"[{},{}]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => []","level":"info","service":"user-service"}
+{"message":"[]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => []","level":"info","service":"user-service"}
+{"message":"[]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => []","level":"info","service":"user-service"}
+{"message":"[]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => []","level":"info","service":"user-service"}
+{"message":"[]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => []","level":"info","service":"user-service"}
+{"message":"[]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => []","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => []","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => []","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[],[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[{\"target\":{\"name\":\"Teste\",\"percent\":1000,\"value\":50,\"marksheetId\":\"5f45b0ea4f0ac94be7d8e498\"},\"value\":1000,\"property\":\"percent\",\"children\":[],\"constraints\":{\"max\":\"percent must not be greater than 100\"}}]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[]]","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[{\"target\":{\"id\":\"5f45b1d94f0ac94be7d8e4a7\",\"marksheetId\":\"5f45b1d84f0ac94be7d8e4a6\",\"name\":\"RowRow\",\"value\":\"50\",\"percent\":100,\"createdAt\":\"2020-08-26T00:50:33.270Z\",\"updatedAt\":\"2020-08-26T00:59:13.368Z\"},\"value\":\"50\",\"property\":\"value\",\"children\":[],\"constraints\":{\"max\":\"value must not be greater than 100\",\"min\":\"value must not be less than 0\"}}]]","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[{\"target\":{\"id\":\"5f45b1d94f0ac94be7d8e4a7\",\"marksheetId\":\"5f45b1d84f0ac94be7d8e4a6\",\"name\":\"RowRow\",\"value\":\"50\",\"percent\":100,\"createdAt\":\"2020-08-26T00:50:33.270Z\",\"updatedAt\":\"2020-08-26T00:59:35.802Z\"},\"value\":\"50\",\"property\":\"value\",\"children\":[],\"constraints\":{\"max\":\"value must not be greater than 100\",\"min\":\"value must not be less than 0\"}}]]","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[{\"target\":{\"id\":\"5f45b1d94f0ac94be7d8e4a7\",\"marksheetId\":\"5f45b1d84f0ac94be7d8e4a6\",\"name\":\"RowRow\",\"value\":\"50\",\"percent\":100,\"createdAt\":\"2020-08-26T00:50:33.270Z\",\"updatedAt\":\"2020-08-26T00:59:59.859Z\"},\"value\":\"50\",\"property\":\"value\",\"children\":[],\"constraints\":{\"max\":\"value must not be greater than 100\",\"min\":\"value must not be less than 0\"}}]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[]]","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[]]","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[]]","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[]]","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[]]","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[]]","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[],[]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[],[]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[],[]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[],[]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[],[]]","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[],[],[]]","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[],[]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Get parameters from the body","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[]]","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[]]","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok","level":"info","service":"user-service"}
+{"message":"Validate if the parameters are ok => [[],[]]","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}
+{"message":"Server started on port => 5000","level":"info","service":"user-service"}

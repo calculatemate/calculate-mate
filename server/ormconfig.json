@@ -1,0 +1,24 @@
+{
+   "type": "mongodb",
+   "url": "mongodb+srv://calculate-mate:45jqqRh89AvVkQXb@cluster0.777lp.mongodb.net/calculate-mate?retryWrites=true&w=majority",
+   "host": "cluster0.777lp.mongodb.net",
+   "port": 27017,
+   "database": "calculate-mate",
+   "useNewUrlParser": true,
+   "synchronize": true,
+   "logging": true,
+   "entities": [
+      "src/entity/**/*.ts"
+   ],
+   "migrations": [
+      "src/migration/**/*.ts"
+   ],
+   "subscribers": [
+      "src/subscriber/**/*.ts"
+   ],
+   "cli": {
+      "entitiesDir": "src/entity",
+      "migrationsDir": "src/migration",
+      "subscribersDir": "src/subscriber"
+   }
+}
